@@ -15,6 +15,26 @@ This module provides look for full stack books.
 USED BOOKS:
 	This module is used to post the users books.
 	![New Tab - Google Chrome 16-04-2021 09_01_28](https://user-images.githubusercontent.com/69050468/117455453-d3352d00-af64-11eb-877c-30f4cbb3427b.png)
+	![New Tab - Google Chrome 16-04-2021 09_02_06](https://user-images.githubusercontent.com/69050468/117455819-2c04c580-af65-11eb-9304-6c6b806ea960.png)
+
+CONTACT:
+This module is used to post the query about the website by the user.
+![New Tab - Google Chrome 16-04-2021 09_04_28](https://user-images.githubusercontent.com/69050468/117455912-463ea380-af65-11eb-8cd9-af6902496d68.png)
+![New Tab - Google Chrome 16-04-2021 09_04_49](https://user-images.githubusercontent.com/69050468/117455938-4d65b180-af65-11eb-86bd-fb67a2ffb140.png)
+MY CART:
+This module is used to view the cart of the purchase list for placing the orders.
+![New Tab - Google Chrome 16-04-2021 09_05_46](https://user-images.githubusercontent.com/69050468/117456065-6c644380-af65-11eb-86b8-53fb415cb3d3.png)
+![New Tab - Google Chrome 16-04-2021 09_06_37](https://user-images.githubusercontent.com/69050468/117456084-71c18e00-af65-11eb-8d7a-3944555afdf1.png)
+![Register Form - Google Chrome 16-04-2021 11_19_12](https://user-images.githubusercontent.com/69050468/117456126-80a84080-af65-11eb-99f0-dd08b7303bf9.png)
+ADMIN PAGE:
+![New Tab - Google Chrome 16-04-2021 08_57_40](https://user-images.githubusercontent.com/69050468/117456198-9158b680-af65-11eb-8f65-bce755f934ea.png)
+![New Tab - Google Chrome 16-04-2021 08_58_10](https://user-images.githubusercontent.com/69050468/117456231-987fc480-af65-11eb-8ab6-4b1a7bf62b49.png)
+ADMIN ADD BOOK
+![New Tab - Google Chrome 16-04-2021 08_59_53](https://user-images.githubusercontent.com/69050468/117456350-b9481a00-af65-11eb-8a16-3aa8d77fdb54.png)
+ADMIN ADD PAGE
+![New Tab - Google Chrome 16-04-2021 09_00_13](https://user-images.githubusercontent.com/69050468/117456371-be0cce00-af65-11eb-9944-f79039b69c6e.png)
+
+
 
 
 
