@@ -14,6 +14,6 @@ This module provides look for full stack books.
 ![BOOK STORE - Google Chrome 13-04-2021 12_16_17](https://user-images.githubusercontent.com/69050468/117419835-9d7b4e80-af3a-11eb-8ccc-d17dc735e6d1.png)
 USED BOOKS:
 	This module is used to post the users books.
-![BOOK STORE - Google Chrome 13-04-2021 12_17_38](https://user-images.githubusercontent.com/69050468/117419923-b552d280-af3a-11eb-8007-8498c6f33627.png)
+![New Tab - Google Chrome 16-04-2021 08_59_53](https://user-images.githubusercontent.com/69050468/117420087-dddacc80-af3a-11eb-8389-cfb0e0bd717e.png)
 
 
